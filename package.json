@@ -1,0 +1,21 @@
+{
+  "name": "sunset-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts 2023"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/moment": "^2.13.0",
+    "csv": "^6.2.8",
+    "moment": "^2.29.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
